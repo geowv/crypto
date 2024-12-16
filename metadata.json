@@ -1,14 +1,6 @@
 {
   "name": "Genius Owl Vision",
-  "symbol": "GEOWV",
-  "uri": "https://github.com/username/repository/blob/main/metadata.json",
-  "image": "https://github.com/username/repository/blob/main/image.png",
-  "sellerFeeBasisPoints": 0,
-  "creators": [
-    {
-      "address": "8dQCkQfYDU9hJVwg2tyDKZZFny6VXwamjJ8mjq1Sb7vx",
-      "verified": true,
-      "share": 100
-    }
-  ]
+  "symbol": "GEOWV", 
+  "image": "https://raw.githubusercontent.com/geowv/crypto/main/geniowsowlvision.png",
+  "description": "Geowv;s beautifull token.Buy your services"
 }
